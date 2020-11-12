@@ -1,2 +1,2 @@
 ## Descripción
-Pequeño ejemplo de como funcionan las rutas en AngularJS
+Funcionamiento de rutas en AngularJS
